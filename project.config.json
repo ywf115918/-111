@@ -1,0 +1,40 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true
+	},
+	"compileType": "weapp",
+	"libVersion": "1.6.0",
+	"appid": "touristappid",
+	"projectname": "%E5%88%86%E9%94%80v1%2C0",
+	"condition": {
+		"weapp": {
+			"current": 1,
+			"list": [
+				{
+					"id": -1,
+					"name": "111",
+					"pathName": "pages/enroll/enroll",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "111",
+					"pathName": "pages/tabulation/tabulation",
+					"query": ""
+				}
+			]
+		},
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
